@@ -1,0 +1,8 @@
+{
+  "name": "Atangana Shop",
+  "description": "Mobile data bundle purchase application with a split-view UI, marketplace, and geolocation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
